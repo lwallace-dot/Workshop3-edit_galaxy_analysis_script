@@ -25,6 +25,7 @@ def print_stats(data_column):
     print(f"The minimum is {data_column.min()}")
     print(f"The maximum is {data_column.max()}")
     print(f"The median is {data_column.median()}")
+    print(f"The mean is {data_column.mean()}")
     
 def plot_histogram(data_column, plot_title, x_label):
     '''
