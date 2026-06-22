@@ -10,7 +10,9 @@ What it does and why it was created.
 The code uses Python 3 or later.
 
 ## Usage
-Start using code.
+Start using code. 
+
+To run this script type: ```python3 galaxies_analysis.py```
 
 ## Author Information
 Code was originally authored by @ksanderso1 and further developed here.
